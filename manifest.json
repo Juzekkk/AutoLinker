@@ -1,10 +1,11 @@
 {
-    "id": "auto-linker",
+    "id": "autolinker-plugin",
     "name": "AutoLinker",
     "version": "1.0.0",
     "description": "Automatically links notes based on titles",
     "main": "main.js",
     "author": "Juzekkk",
-    "license": "MIT"
+    "license": "MIT",
+    "repo": "Juzekkk/AutoLinker"
   }
   
