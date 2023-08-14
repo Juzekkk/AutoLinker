@@ -1,5 +1,5 @@
 {
-    "id": "autolinker-plugin",
+    "id": "autolinker",
     "name": "AutoLinker",
     "version": "1.0.0",
     "description": "Automatically links notes based on titles",
